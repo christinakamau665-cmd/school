@@ -1,0 +1,6 @@
+<resources>
+    <!-- Base app theme - NoActionBar is needed for Compose -->
+    <style name="Theme.Emobilis" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "95100541546",
+    "firebase_url": "https://emobilis-77005-default-rtdb.firebaseio.com",
+    "project_id": "emobilis-77005",
+    "storage_bucket": "emobilis-77005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95100541546:android:f8e4ffd1e06f75eeae4813",
+        "android_client_info": {
+          "package_name": "com.emobilis.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApiJAD31v4JB9SM2nhjMbB40D2J3Pz1Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

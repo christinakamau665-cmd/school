@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emobilis SMS</string>
+    <string name="school_name">EMOBILIS School of Technology</string>
+    <string name="location_permission_rationale">Emobilis needs location access to verify you are at school before signing attendance.</string>
+</resources>
