@@ -4,7 +4,7 @@
             "outputFile": "com.emobilis.app-mergeDebugResources-64:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\0ffb127edfe6a62b4f57d73d86eee4ea\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/8a9e21e94992ec1fe7d958b7895b9bdf/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\8a9e21e94992ec1fe7d958b7895b9bdf\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

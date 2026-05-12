@@ -4,24 +4,7 @@
             "outputFile": "com.emobilis.app-mergeDebugResources-64:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/0b25345fce003aecd458006e58e7a7bb/transformed/ui-release/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,181,255,343,434,512,586,663,741,815,878,941,1014,1089,1156,1231,1296",
-                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,74,64,115",
-                        "endOffsets": "176,250,338,429,507,581,658,736,810,873,936,1009,1084,1151,1226,1291,1407"
-                    },
-                    "to": {
-                        "startLines": "36,37,58,60,61,75,76,133,134,135,136,137,138,140,142,143,144",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3327,3403,5484,5653,5744,7111,7185,12692,12770,12844,12907,12970,13043,13197,13365,13440,13505",
-                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,74,64,115",
-                        "endOffsets": "3398,3472,5567,5739,5817,7180,7257,12765,12839,12902,12965,13038,13113,13259,13435,13500,13616"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/41eee696bef2d19507ee89c084a88143/transformed/play-services-base-18.0.1/res/values-zh-rHK/values.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\41eee696bef2d19507ee89c084a88143\\transformed\\play-services-base-18.0.1\\res\\values-zh-rHK\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/6d437433dc5c240d958c718e477874e8/transformed/material3-release/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\6d437433dc5c240d958c718e477874e8\\transformed\\material3-release\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,41 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,147,246,340,434,527,620,716",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "142,241,335,429,522,615,711,812"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,141",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2666,2758,2857,2951,3045,3138,3231,13264",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "2753,2852,2946,3040,3133,3226,3322,13360"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/afe8678f07e2651a78bc1d9d4d494dd3/transformed/play-services-basement-18.1.0/res/values-zh-rHK/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "103",
-                        "endOffsets": "302"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4341",
-                        "endColumns": "107",
-                        "endOffsets": "4444"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/341b733f2b8ec948e09cdef515b8574e/transformed/foundation-release/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\341b733f2b8ec948e09cdef515b8574e\\transformed\\foundation-release\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -106,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/77d4f9f3e98df043856a703b0cb36154/transformed/biometric-1.1.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\77d4f9f3e98df043856a703b0cb36154\\transformed\\biometric-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -123,7 +72,24 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/8a9e21e94992ec1fe7d958b7895b9bdf/transformed/appcompat-1.6.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\2d90f35a7c97faaaaa6f9805b3f516b0\\transformed\\browser-1.4.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,138,230,331",
+                        "endColumns": "82,91,100,92",
+                        "endOffsets": "133,225,326,419"
+                    },
+                    "to": {
+                        "startLines": "57,62,63,64",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5401,5822,5914,6015",
+                        "endColumns": "82,91,100,92",
+                        "endOffsets": "5479,5909,6010,6103"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\8a9e21e94992ec1fe7d958b7895b9bdf\\transformed\\appcompat-1.6.1\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -140,20 +106,54 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/2d90f35a7c97faaaaa6f9805b3f516b0/transformed/browser-1.4.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\0b25345fce003aecd458006e58e7a7bb\\transformed\\ui-release\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,138,230,331",
-                        "endColumns": "82,91,100,92",
-                        "endOffsets": "133,225,326,419"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,181,255,343,434,512,586,663,741,815,878,941,1014,1089,1156,1231,1296",
+                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,74,64,115",
+                        "endOffsets": "176,250,338,429,507,581,658,736,810,873,936,1009,1084,1151,1226,1291,1407"
                     },
                     "to": {
-                        "startLines": "57,62,63,64",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "5401,5822,5914,6015",
-                        "endColumns": "82,91,100,92",
-                        "endOffsets": "5479,5909,6010,6103"
+                        "startLines": "36,37,58,60,61,75,76,133,134,135,136,137,138,140,142,143,144",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3327,3403,5484,5653,5744,7111,7185,12692,12770,12844,12907,12970,13043,13197,13365,13440,13505",
+                        "endColumns": "75,73,87,90,77,73,76,77,73,62,62,72,74,66,74,64,115",
+                        "endOffsets": "3398,3472,5567,5739,5817,7180,7257,12765,12839,12902,12965,13038,13113,13259,13435,13500,13616"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\0ffb127edfe6a62b4f57d73d86eee4ea\\transformed\\core-1.12.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,340,434,527,620,716",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "142,241,335,429,522,615,711,812"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,141",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2666,2758,2857,2951,3045,3138,3231,13264",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "2753,2852,2946,3040,3133,3226,3322,13360"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\afe8678f07e2651a78bc1d9d4d494dd3\\transformed\\play-services-basement-18.1.0\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "103",
+                        "endOffsets": "302"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4341",
+                        "endColumns": "107",
+                        "endOffsets": "4444"
                     }
                 }
             ]

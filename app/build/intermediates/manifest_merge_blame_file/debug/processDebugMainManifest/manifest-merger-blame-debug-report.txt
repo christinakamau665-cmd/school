@@ -10,500 +10,500 @@
 10
 11    <!-- Internet -->
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:5:5-66
-12-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:5:22-64
+12-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:5:5-66
+12-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:5:22-64
 13
 14    <!-- Location — GPS attendance verification -->
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:8:5-78
-15-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:8:22-76
+15-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:8:5-78
+15-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:8:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:9:5-80
-16-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:9:22-78
+16-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:9:5-80
+16-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:9:22-78
 17
 18    <!-- Notifications — FCM push alerts -->
 19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-19-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:12:5-76
-19-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:12:22-74
+19-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:12:5-76
+19-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:12:22-74
 20
 21    <!-- Biometrics — fingerprint / face unlock (API 23+) -->
 22    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-22-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:15:5-71
-22-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:15:22-69
+22-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:15:5-71
+22-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:15:22-69
 23    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-23-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:16:5-73
-23-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:16:22-71
+23-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:16:5-73
+23-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:16:22-71
 24
 25    <!-- Photo upload -->
 26    <uses-permission
-26-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:19:5-106
+26-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:19:5-106
 27        android:name="android.permission.READ_EXTERNAL_STORAGE"
-27-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:19:22-77
+27-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:19:22-77
 28        android:maxSdkVersion="32" />
-28-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:19:78-104
+28-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:19:78-104
 29    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-29-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:20:5-75
-29-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:20:22-73
+29-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:20:5-75
+29-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:20:22-73
 30
 31    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 32    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-33-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:23:5-79
-33-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:23:22-76
+33-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+33-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:22-76
 34    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-34-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:24:5-68
-34-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:24:22-65
+34-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:24:5-68
+34-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:24:22-65
 35    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-35-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:26:5-82
-35-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:26:22-79
+35-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:26:5-82
+35-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:26:22-79
 36
 37    <permission
-37-->[androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+37-->[androidx.core:core:1.12.0] C:\Users\HP\.gradle\caches\8.9\transforms\0ffb127edfe6a62b4f57d73d86eee4ea\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 38        android:name="com.emobilis.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-38-->[androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+38-->[androidx.core:core:1.12.0] C:\Users\HP\.gradle\caches\8.9\transforms\0ffb127edfe6a62b4f57d73d86eee4ea\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 39        android:protectionLevel="signature" />
-39-->[androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+39-->[androidx.core:core:1.12.0] C:\Users\HP\.gradle\caches\8.9\transforms\0ffb127edfe6a62b4f57d73d86eee4ea\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 40
 41    <uses-permission android:name="com.emobilis.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-41-->[androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
-41-->[androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+41-->[androidx.core:core:1.12.0] C:\Users\HP\.gradle\caches\8.9\transforms\0ffb127edfe6a62b4f57d73d86eee4ea\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+41-->[androidx.core:core:1.12.0] C:\Users\HP\.gradle\caches\8.9\transforms\0ffb127edfe6a62b4f57d73d86eee4ea\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 42
 43    <application
-43-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:22:5-50:19
+43-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:22:5-50:19
 44        android:name="androidx.multidex.MultiDexApplication"
-44-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:23:9-61
+44-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:23:9-61
 45        android:allowBackup="true"
-45-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:24:9-35
+45-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:24:9-35
 46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-46-->[androidx.core:core:1.12.0] /home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+46-->[androidx.core:core:1.12.0] C:\Users\HP\.gradle\caches\8.9\transforms\0ffb127edfe6a62b4f57d73d86eee4ea\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 47        android:debuggable="true"
 48        android:extractNativeLibs="false"
 49        android:icon="@mipmap/ic_launcher"
-49-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:25:9-43
+49-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:25:9-43
 50        android:label="@string/app_name"
-50-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:27:9-41
+50-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:27:9-41
 51        android:roundIcon="@mipmap/ic_launcher_round"
-51-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:26:9-54
+51-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:26:9-54
 52        android:supportsRtl="true"
-52-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:28:9-35
+52-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:28:9-35
 53        android:testOnly="true"
 54        android:theme="@style/Theme.Emobilis" >
-54-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:29:9-46
+54-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:29:9-46
 55        <activity
-55-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:31:9-39:20
+55-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:31:9-39:20
 56            android:name="com.emobilis.app.MainActivity"
-56-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:32:13-41
+56-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:32:13-41
 57            android:exported="true"
-57-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:33:13-36
+57-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:33:13-36
 58            android:windowSoftInputMode="adjustResize" >
-58-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:34:13-55
+58-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:34:13-55
 59            <intent-filter>
-59-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:35:13-38:29
+59-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:35:13-38:29
 60                <action android:name="android.intent.action.MAIN" />
-60-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:36:17-68
-60-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:36:25-66
+60-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:36:17-68
+60-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:36:25-66
 61
 62                <category android:name="android.intent.category.LAUNCHER" />
-62-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:37:17-76
-62-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:37:27-74
+62-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:37:17-76
+62-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:37:27-74
 63            </intent-filter>
 64        </activity>
 65
 66        <service
-66-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:41:9-45:19
+66-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:41:9-45:19
 67            android:name="com.emobilis.app.EmobilisMessagingService"
-67-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:41:18-58
+67-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:41:18-58
 68            android:exported="false" >
-68-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:41:59-83
+68-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:41:59-83
 69            <intent-filter>
-69-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:42:13-44:29
+69-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:42:13-44:29
 70                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-70-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:43:17-77
-70-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:43:25-75
+70-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:43:17-77
+70-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:43:25-75
 71            </intent-filter>
 72        </service>
 73
 74        <meta-data
-74-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:47:9-130
+74-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:47:9-130
 75            android:name="com.google.firebase.messaging.default_notification_channel_id"
-75-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:47:20-96
+75-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:47:20-96
 76            android:value="emobilis_alerts" />
-76-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:47:97-128
+76-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:47:97-128
 77        <meta-data
-77-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:48:9-131
+77-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:48:9-131
 78            android:name="com.google.firebase.messaging.default_notification_icon"
-78-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:48:20-90
+78-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:48:20-90
 79            android:resource="@mipmap/ic_launcher" />
-79-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:48:91-129
+79-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:48:91-129
 80
 81        <service
-81-->[com.google.firebase:firebase-storage-ktx:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/781aaf0da5bd09cff784caae6d7d4e13/transformed/firebase-storage-ktx-20.3.0/AndroidManifest.xml:9:9-15:19
+81-->[com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\781aaf0da5bd09cff784caae6d7d4e13\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:9:9-15:19
 82            android:name="com.google.firebase.components.ComponentDiscoveryService"
-82-->[com.google.firebase:firebase-storage-ktx:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/781aaf0da5bd09cff784caae6d7d4e13/transformed/firebase-storage-ktx-20.3.0/AndroidManifest.xml:10:13-84
+82-->[com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\781aaf0da5bd09cff784caae6d7d4e13\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:10:13-84
 83            android:directBootAware="true"
-83-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+83-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
 84            android:exported="false" >
-84-->[com.google.firebase:firebase-storage-ktx:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/781aaf0da5bd09cff784caae6d7d4e13/transformed/firebase-storage-ktx-20.3.0/AndroidManifest.xml:11:13-37
+84-->[com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\781aaf0da5bd09cff784caae6d7d4e13\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:11:13-37
 85            <meta-data
-85-->[com.google.firebase:firebase-storage-ktx:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/781aaf0da5bd09cff784caae6d7d4e13/transformed/firebase-storage-ktx-20.3.0/AndroidManifest.xml:12:13-14:85
+85-->[com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\781aaf0da5bd09cff784caae6d7d4e13\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:12:13-14:85
 86                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageLegacyRegistrar"
-86-->[com.google.firebase:firebase-storage-ktx:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/781aaf0da5bd09cff784caae6d7d4e13/transformed/firebase-storage-ktx-20.3.0/AndroidManifest.xml:13:17-125
+86-->[com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\781aaf0da5bd09cff784caae6d7d4e13\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:13:17-125
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[com.google.firebase:firebase-storage-ktx:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/781aaf0da5bd09cff784caae6d7d4e13/transformed/firebase-storage-ktx-20.3.0/AndroidManifest.xml:14:17-82
+87-->[com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\781aaf0da5bd09cff784caae6d7d4e13\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:14:17-82
 88            <meta-data
-88-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:30:13-32:85
+88-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
 89                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
-89-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:31:17-118
+89-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:32:17-82
+90-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
 91            <meta-data
-91-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:33:13-35:85
+91-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
 92                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-92-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:34:17-107
+92-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
 93                android:value="com.google.firebase.components.ComponentRegistrar" />
-93-->[com.google.firebase:firebase-storage:20.3.0] /home/emobilis/.gradle/caches/8.9/transforms/9285c0f9dc7f7845925b7a43e7648639/transformed/firebase-storage-20.3.0/AndroidManifest.xml:35:17-82
+93-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\9285c0f9dc7f7845925b7a43e7648639\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
 94            <meta-data
-94-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/059044446eb2a393f4be54ef5c5da5c2/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:12:13-14:85
+94-->[com.google.firebase:firebase-firestore-ktx:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\059044446eb2a393f4be54ef5c5da5c2\transformed\firebase-firestore-ktx-24.10.0\AndroidManifest.xml:12:13-14:85
 95                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
-95-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/059044446eb2a393f4be54ef5c5da5c2/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:13:17-129
+95-->[com.google.firebase:firebase-firestore-ktx:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\059044446eb2a393f4be54ef5c5da5c2\transformed\firebase-firestore-ktx-24.10.0\AndroidManifest.xml:13:17-129
 96                android:value="com.google.firebase.components.ComponentRegistrar" />
-96-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/059044446eb2a393f4be54ef5c5da5c2/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:14:17-82
+96-->[com.google.firebase:firebase-firestore-ktx:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\059044446eb2a393f4be54ef5c5da5c2\transformed\firebase-firestore-ktx-24.10.0\AndroidManifest.xml:14:17-82
 97            <meta-data
-97-->[com.google.firebase:firebase-firestore:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/79bbabe2e481daf9e1296e83a086b86c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:17:13-19:85
+97-->[com.google.firebase:firebase-firestore:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\79bbabe2e481daf9e1296e83a086b86c\transformed\firebase-firestore-24.10.0\AndroidManifest.xml:17:13-19:85
 98                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
-98-->[com.google.firebase:firebase-firestore:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/79bbabe2e481daf9e1296e83a086b86c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:18:17-122
+98-->[com.google.firebase:firebase-firestore:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\79bbabe2e481daf9e1296e83a086b86c\transformed\firebase-firestore-24.10.0\AndroidManifest.xml:18:17-122
 99                android:value="com.google.firebase.components.ComponentRegistrar" />
-99-->[com.google.firebase:firebase-firestore:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/79bbabe2e481daf9e1296e83a086b86c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:19:17-82
+99-->[com.google.firebase:firebase-firestore:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\79bbabe2e481daf9e1296e83a086b86c\transformed\firebase-firestore-24.10.0\AndroidManifest.xml:19:17-82
 100            <meta-data
-100-->[com.google.firebase:firebase-firestore:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/79bbabe2e481daf9e1296e83a086b86c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:20:13-22:85
+100-->[com.google.firebase:firebase-firestore:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\79bbabe2e481daf9e1296e83a086b86c\transformed\firebase-firestore-24.10.0\AndroidManifest.xml:20:13-22:85
 101                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-101-->[com.google.firebase:firebase-firestore:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/79bbabe2e481daf9e1296e83a086b86c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:21:17-111
+101-->[com.google.firebase:firebase-firestore:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\79bbabe2e481daf9e1296e83a086b86c\transformed\firebase-firestore-24.10.0\AndroidManifest.xml:21:17-111
 102                android:value="com.google.firebase.components.ComponentRegistrar" />
-102-->[com.google.firebase:firebase-firestore:24.10.0] /home/emobilis/.gradle/caches/8.9/transforms/79bbabe2e481daf9e1296e83a086b86c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:22:17-82
+102-->[com.google.firebase:firebase-firestore:24.10.0] C:\Users\HP\.gradle\caches\8.9\transforms\79bbabe2e481daf9e1296e83a086b86c\transformed\firebase-firestore-24.10.0\AndroidManifest.xml:22:17-82
 103            <meta-data
-103-->[com.google.firebase:firebase-messaging-ktx:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/f14ffb1da02d9eca9872bb4d5d2a58c8/transformed/firebase-messaging-ktx-23.4.0/AndroidManifest.xml:26:13-28:85
+103-->[com.google.firebase:firebase-messaging-ktx:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\f14ffb1da02d9eca9872bb4d5d2a58c8\transformed\firebase-messaging-ktx-23.4.0\AndroidManifest.xml:26:13-28:85
 104                android:name="com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingLegacyRegistrar"
-104-->[com.google.firebase:firebase-messaging-ktx:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/f14ffb1da02d9eca9872bb4d5d2a58c8/transformed/firebase-messaging-ktx-23.4.0/AndroidManifest.xml:27:17-129
+104-->[com.google.firebase:firebase-messaging-ktx:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\f14ffb1da02d9eca9872bb4d5d2a58c8\transformed\firebase-messaging-ktx-23.4.0\AndroidManifest.xml:27:17-129
 105                android:value="com.google.firebase.components.ComponentRegistrar" />
-105-->[com.google.firebase:firebase-messaging-ktx:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/f14ffb1da02d9eca9872bb4d5d2a58c8/transformed/firebase-messaging-ktx-23.4.0/AndroidManifest.xml:28:17-82
+105-->[com.google.firebase:firebase-messaging-ktx:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\f14ffb1da02d9eca9872bb4d5d2a58c8\transformed\firebase-messaging-ktx-23.4.0\AndroidManifest.xml:28:17-82
 106            <meta-data
-106-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:57:13-59:85
+106-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:57:13-59:85
 107                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
-107-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:58:17-122
+107-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:58:17-122
 108                android:value="com.google.firebase.components.ComponentRegistrar" />
-108-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:59:17-82
+108-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:59:17-82
 109            <meta-data
-109-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:60:13-62:85
+109-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:60:13-62:85
 110                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-110-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:61:17-119
+110-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:61:17-119
 111                android:value="com.google.firebase.components.ComponentRegistrar" />
-111-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:62:17-82
+111-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:62:17-82
 112            <meta-data
-112-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5487562b668d8bac6cd96303cbe81d65/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:11:13-13:85
+112-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5487562b668d8bac6cd96303cbe81d65\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:11:13-13:85
 113                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
-113-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5487562b668d8bac6cd96303cbe81d65/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:12:17-119
+113-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5487562b668d8bac6cd96303cbe81d65\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:12:17-119
 114                android:value="com.google.firebase.components.ComponentRegistrar" />
-114-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5487562b668d8bac6cd96303cbe81d65/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:13:17-82
+114-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5487562b668d8bac6cd96303cbe81d65\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:13:17-82
 115            <meta-data
-115-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
+115-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:69:13-71:85
 116                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-116-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
+116-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:70:17-109
 117                android:value="com.google.firebase.components.ComponentRegistrar" />
-117-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
+117-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:71:17-82
 118            <meta-data
-118-->[com.google.firebase:firebase-appcheck:17.1.1] /home/emobilis/.gradle/caches/8.9/transforms/10e2884f6c3a2b76a88d887e8be3ee23/transformed/firebase-appcheck-17.1.1/AndroidManifest.xml:25:13-27:85
+118-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\HP\.gradle\caches\8.9\transforms\10e2884f6c3a2b76a88d887e8be3ee23\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:25:13-27:85
 119                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
-119-->[com.google.firebase:firebase-appcheck:17.1.1] /home/emobilis/.gradle/caches/8.9/transforms/10e2884f6c3a2b76a88d887e8be3ee23/transformed/firebase-appcheck-17.1.1/AndroidManifest.xml:26:17-120
+119-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\HP\.gradle\caches\8.9\transforms\10e2884f6c3a2b76a88d887e8be3ee23\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:26:17-120
 120                android:value="com.google.firebase.components.ComponentRegistrar" />
-120-->[com.google.firebase:firebase-appcheck:17.1.1] /home/emobilis/.gradle/caches/8.9/transforms/10e2884f6c3a2b76a88d887e8be3ee23/transformed/firebase-appcheck-17.1.1/AndroidManifest.xml:27:17-82
+120-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\HP\.gradle\caches\8.9\transforms\10e2884f6c3a2b76a88d887e8be3ee23\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:27:17-82
 121            <meta-data
-121-->[com.google.firebase:firebase-appcheck:17.1.1] /home/emobilis/.gradle/caches/8.9/transforms/10e2884f6c3a2b76a88d887e8be3ee23/transformed/firebase-appcheck-17.1.1/AndroidManifest.xml:28:13-30:85
+121-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\HP\.gradle\caches\8.9\transforms\10e2884f6c3a2b76a88d887e8be3ee23\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:28:13-30:85
 122                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
-122-->[com.google.firebase:firebase-appcheck:17.1.1] /home/emobilis/.gradle/caches/8.9/transforms/10e2884f6c3a2b76a88d887e8be3ee23/transformed/firebase-appcheck-17.1.1/AndroidManifest.xml:29:17-117
+122-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\HP\.gradle\caches\8.9\transforms\10e2884f6c3a2b76a88d887e8be3ee23\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:29:17-117
 123                android:value="com.google.firebase.components.ComponentRegistrar" />
-123-->[com.google.firebase:firebase-appcheck:17.1.1] /home/emobilis/.gradle/caches/8.9/transforms/10e2884f6c3a2b76a88d887e8be3ee23/transformed/firebase-appcheck-17.1.1/AndroidManifest.xml:30:17-82
+123-->[com.google.firebase:firebase-appcheck:17.1.1] C:\Users\HP\.gradle\caches\8.9\transforms\10e2884f6c3a2b76a88d887e8be3ee23\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:30:17-82
 124            <meta-data
-124-->[com.google.firebase:firebase-installations:17.2.0] /home/emobilis/.gradle/caches/8.9/transforms/ff27d1d345a802990b068334ec7a5baf/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+124-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\HP\.gradle\caches\8.9\transforms\ff27d1d345a802990b068334ec7a5baf\transformed\firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
 125                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-125-->[com.google.firebase:firebase-installations:17.2.0] /home/emobilis/.gradle/caches/8.9/transforms/ff27d1d345a802990b068334ec7a5baf/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+125-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\HP\.gradle\caches\8.9\transforms\ff27d1d345a802990b068334ec7a5baf\transformed\firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
 126                android:value="com.google.firebase.components.ComponentRegistrar" />
-126-->[com.google.firebase:firebase-installations:17.2.0] /home/emobilis/.gradle/caches/8.9/transforms/ff27d1d345a802990b068334ec7a5baf/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+126-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\HP\.gradle\caches\8.9\transforms\ff27d1d345a802990b068334ec7a5baf\transformed\firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
 127            <meta-data
-127-->[com.google.firebase:firebase-installations:17.2.0] /home/emobilis/.gradle/caches/8.9/transforms/ff27d1d345a802990b068334ec7a5baf/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+127-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\HP\.gradle\caches\8.9\transforms\ff27d1d345a802990b068334ec7a5baf\transformed\firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
 128                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-128-->[com.google.firebase:firebase-installations:17.2.0] /home/emobilis/.gradle/caches/8.9/transforms/ff27d1d345a802990b068334ec7a5baf/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+128-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\HP\.gradle\caches\8.9\transforms\ff27d1d345a802990b068334ec7a5baf\transformed\firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
 129                android:value="com.google.firebase.components.ComponentRegistrar" />
-129-->[com.google.firebase:firebase-installations:17.2.0] /home/emobilis/.gradle/caches/8.9/transforms/ff27d1d345a802990b068334ec7a5baf/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+129-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\HP\.gradle\caches\8.9\transforms\ff27d1d345a802990b068334ec7a5baf\transformed\firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
 130            <meta-data
-130-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/dd31d51edc9cc7250cb1bc520928a646/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+130-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\dd31d51edc9cc7250cb1bc520928a646\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
 131                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-131-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/dd31d51edc9cc7250cb1bc520928a646/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+131-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\dd31d51edc9cc7250cb1bc520928a646\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
 132                android:value="com.google.firebase.components.ComponentRegistrar" />
-132-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/dd31d51edc9cc7250cb1bc520928a646/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+132-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\dd31d51edc9cc7250cb1bc520928a646\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
 133            <meta-data
-133-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+133-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
 134                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-134-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+134-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
 135                android:value="com.google.firebase.components.ComponentRegistrar" />
-135-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+135-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
 136            <meta-data
-136-->[com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/8.9/transforms/216cc657d4eec76a57325fc6cd98b4d5/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+136-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\HP\.gradle\caches\8.9\transforms\216cc657d4eec76a57325fc6cd98b4d5\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
 137                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-137-->[com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/8.9/transforms/216cc657d4eec76a57325fc6cd98b4d5/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+137-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\HP\.gradle\caches\8.9\transforms\216cc657d4eec76a57325fc6cd98b4d5\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
 138                android:value="com.google.firebase.components.ComponentRegistrar" />
-138-->[com.google.firebase:firebase-datatransport:18.1.7] /home/emobilis/.gradle/caches/8.9/transforms/216cc657d4eec76a57325fc6cd98b4d5/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+138-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\HP\.gradle\caches\8.9\transforms\216cc657d4eec76a57325fc6cd98b4d5\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
 139        </service>
 140
 141        <receiver
-141-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:29:9-40:20
+141-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:29:9-40:20
 142            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-142-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:30:13-78
+142-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:30:13-78
 143            android:exported="true"
-143-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:31:13-36
+143-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:31:13-36
 144            android:permission="com.google.android.c2dm.permission.SEND" >
-144-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:32:13-73
+144-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:32:13-73
 145            <intent-filter>
-145-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:33:13-35:29
+145-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:33:13-35:29
 146                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-146-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:34:17-81
-146-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:34:25-78
+146-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:34:17-81
+146-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:34:25-78
 147            </intent-filter>
 148
 149            <meta-data
-149-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:37:13-39:40
+149-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:37:13-39:40
 150                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
-150-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:38:17-92
+150-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:38:17-92
 151                android:value="true" />
-151-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:39:17-37
+151-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:39:17-37
 152        </receiver>
 153        <!--
 154             FirebaseMessagingService performs security checks at runtime,
 155             but set to not exported to explicitly avoid allowing another app to call it.
 156        -->
 157        <service
-157-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:46:9-53:19
+157-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:46:9-53:19
 158            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-158-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:47:13-82
+158-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:47:13-82
 159            android:directBootAware="true"
-159-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:48:13-43
+159-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:48:13-43
 160            android:exported="false" >
-160-->[com.google.firebase:firebase-messaging:23.4.0] /home/emobilis/.gradle/caches/8.9/transforms/22475a7a6cf1e086c6ed0997563035d0/transformed/firebase-messaging-23.4.0/AndroidManifest.xml:49:13-37
+160-->[com.google.firebase:firebase-messaging:23.4.0] C:\Users\HP\.gradle\caches\8.9\transforms\22475a7a6cf1e086c6ed0997563035d0\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:49:13-37
 161            <intent-filter android:priority="-500" >
-161-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:42:13-44:29
+161-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:42:13-44:29
 162                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-162-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:43:17-77
-162-->/home/emobilis/Downloads/emo_final/app/src/main/AndroidManifest.xml:43:25-75
+162-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:43:17-77
+162-->C:\Users\HP\StudioProjects\school\app\src\main\AndroidManifest.xml:43:25-75
 163            </intent-filter>
 164        </service>
 165
 166        <activity
-166-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
+166-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:29:9-46:20
 167            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-167-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
+167-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:30:13-80
 168            android:excludeFromRecents="true"
-168-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
+168-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:31:13-46
 169            android:exported="true"
-169-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
+169-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:32:13-36
 170            android:launchMode="singleTask"
-170-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
+170-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:33:13-44
 171            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-171-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
+171-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:34:13-72
 172            <intent-filter>
-172-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
+172-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:35:13-45:29
 173                <action android:name="android.intent.action.VIEW" />
-173-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
-173-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+173-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:17-69
+173-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:25-66
 174
 175                <category android:name="android.intent.category.DEFAULT" />
-175-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
-175-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+175-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:17-76
+175-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:27-73
 176                <category android:name="android.intent.category.BROWSABLE" />
-176-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
-176-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+176-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:17-78
+176-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:27-75
 177
 178                <data
-178-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+178-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:41:17-44:51
 179                    android:host="firebase.auth"
-179-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+179-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:42:21-49
 180                    android:path="/"
-180-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+180-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:43:21-37
 181                    android:scheme="genericidp" />
-181-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+181-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:44:21-48
 182            </intent-filter>
 183        </activity>
 184        <activity
-184-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
+184-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:47:9-64:20
 185            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-185-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
+185-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:48:13-79
 186            android:excludeFromRecents="true"
-186-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
+186-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:49:13-46
 187            android:exported="true"
-187-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
+187-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:50:13-36
 188            android:launchMode="singleTask"
-188-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
+188-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:51:13-44
 189            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-189-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
+189-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:52:13-72
 190            <intent-filter>
-190-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
+190-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:53:13-63:29
 191                <action android:name="android.intent.action.VIEW" />
-191-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
-191-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+191-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:17-69
+191-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:25-66
 192
 193                <category android:name="android.intent.category.DEFAULT" />
-193-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
-193-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+193-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:17-76
+193-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:27-73
 194                <category android:name="android.intent.category.BROWSABLE" />
-194-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
-194-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+194-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:17-78
+194-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:27-75
 195
 196                <data
-196-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+196-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:41:17-44:51
 197                    android:host="firebase.auth"
-197-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+197-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:42:21-49
 198                    android:path="/"
-198-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+198-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:43:21-37
 199                    android:scheme="recaptcha" />
-199-->[com.google.firebase:firebase-auth:22.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5dd0b486c091d3e5e10a23304739c44a/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+199-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5dd0b486c091d3e5e10a23304739c44a\transformed\firebase-auth-22.3.0\AndroidManifest.xml:44:21-48
 200            </intent-filter>
 201        </activity>
 202        <activity
-202-->[com.google.android.gms:play-services-base:18.0.1] /home/emobilis/.gradle/caches/8.9/transforms/41eee696bef2d19507ee89c084a88143/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+202-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\.gradle\caches\8.9\transforms\41eee696bef2d19507ee89c084a88143\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 203            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-203-->[com.google.android.gms:play-services-base:18.0.1] /home/emobilis/.gradle/caches/8.9/transforms/41eee696bef2d19507ee89c084a88143/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+203-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\.gradle\caches\8.9\transforms\41eee696bef2d19507ee89c084a88143\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 204            android:exported="false"
-204-->[com.google.android.gms:play-services-base:18.0.1] /home/emobilis/.gradle/caches/8.9/transforms/41eee696bef2d19507ee89c084a88143/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+204-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\.gradle\caches\8.9\transforms\41eee696bef2d19507ee89c084a88143\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 205            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-205-->[com.google.android.gms:play-services-base:18.0.1] /home/emobilis/.gradle/caches/8.9/transforms/41eee696bef2d19507ee89c084a88143/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+205-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\.gradle\caches\8.9\transforms\41eee696bef2d19507ee89c084a88143\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 206
 207        <provider
-207-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+207-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
 208            android:name="com.google.firebase.provider.FirebaseInitProvider"
-208-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+208-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
 209            android:authorities="com.emobilis.app.firebaseinitprovider"
-209-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+209-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
 210            android:directBootAware="true"
-210-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+210-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
 211            android:exported="false"
-211-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+211-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
 212            android:initOrder="100" />
-212-->[com.google.firebase:firebase-common:20.4.2] /home/emobilis/.gradle/caches/8.9/transforms/2f91cc261df14cb9caf0c0aa53ee31de/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+212-->[com.google.firebase:firebase-common:20.4.2] C:\Users\HP\.gradle\caches\8.9\transforms\2f91cc261df14cb9caf0c0aa53ee31de\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
 213
 214        <activity
-214-->[androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/8.9/transforms/61e0e27e71ab968a6203935cac6a60cb/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+214-->[androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\HP\.gradle\caches\8.9\transforms\61e0e27e71ab968a6203935cac6a60cb\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
 215            android:name="androidx.compose.ui.tooling.PreviewActivity"
-215-->[androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/8.9/transforms/61e0e27e71ab968a6203935cac6a60cb/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+215-->[androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\HP\.gradle\caches\8.9\transforms\61e0e27e71ab968a6203935cac6a60cb\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
 216            android:exported="true" />
-216-->[androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/8.9/transforms/61e0e27e71ab968a6203935cac6a60cb/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+216-->[androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\HP\.gradle\caches\8.9\transforms\61e0e27e71ab968a6203935cac6a60cb\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
 217
 218        <provider
-218-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+218-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 219            android:name="androidx.startup.InitializationProvider"
-219-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+219-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
 220            android:authorities="com.emobilis.app.androidx-startup"
-220-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+220-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
 221            android:exported="false" >
-221-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+221-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 222            <meta-data
-222-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+222-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
 223                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-223-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+223-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 224                android:value="androidx.startup" />
-224-->[androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/8.9/transforms/5fef0faf4e018fa23bd074cdfc1a1ad5/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+224-->[androidx.emoji2:emoji2:1.3.0] C:\Users\HP\.gradle\caches\8.9\transforms\5fef0faf4e018fa23bd074cdfc1a1ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 225            <meta-data
-225-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/8.9/transforms/784e1ec340cc03ea4ab633106dad6a01/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+225-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\HP\.gradle\caches\8.9\transforms\784e1ec340cc03ea4ab633106dad6a01\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
 226                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-226-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/8.9/transforms/784e1ec340cc03ea4ab633106dad6a01/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+226-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\HP\.gradle\caches\8.9\transforms\784e1ec340cc03ea4ab633106dad6a01\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
 227                android:value="androidx.startup" />
-227-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/8.9/transforms/784e1ec340cc03ea4ab633106dad6a01/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+227-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\HP\.gradle\caches\8.9\transforms\784e1ec340cc03ea4ab633106dad6a01\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
 228            <meta-data
-228-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+228-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 229                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-229-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+229-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
 230                android:value="androidx.startup" />
-230-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+230-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
 231        </provider>
 232
 233        <meta-data
-233-->[com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/8.9/transforms/afe8678f07e2651a78bc1d9d4d494dd3/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+233-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\HP\.gradle\caches\8.9\transforms\afe8678f07e2651a78bc1d9d4d494dd3\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 234            android:name="com.google.android.gms.version"
-234-->[com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/8.9/transforms/afe8678f07e2651a78bc1d9d4d494dd3/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+234-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\HP\.gradle\caches\8.9\transforms\afe8678f07e2651a78bc1d9d4d494dd3\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 235            android:value="@integer/google_play_services_version" />
-235-->[com.google.android.gms:play-services-basement:18.1.0] /home/emobilis/.gradle/caches/8.9/transforms/afe8678f07e2651a78bc1d9d4d494dd3/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+235-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\HP\.gradle\caches\8.9\transforms\afe8678f07e2651a78bc1d9d4d494dd3\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 236
 237        <activity
-237-->[androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/8.9/transforms/e10e80ec0c53c4073896144a4bd970bb/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:23:9-25:39
+237-->[androidx.compose.ui:ui-test-manifest:1.6.8] C:\Users\HP\.gradle\caches\8.9\transforms\e10e80ec0c53c4073896144a4bd970bb\transformed\ui-test-manifest-1.6.8\AndroidManifest.xml:23:9-25:39
 238            android:name="androidx.activity.ComponentActivity"
-238-->[androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/8.9/transforms/e10e80ec0c53c4073896144a4bd970bb/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:24:13-63
+238-->[androidx.compose.ui:ui-test-manifest:1.6.8] C:\Users\HP\.gradle\caches\8.9\transforms\e10e80ec0c53c4073896144a4bd970bb\transformed\ui-test-manifest-1.6.8\AndroidManifest.xml:24:13-63
 239            android:exported="true" />
-239-->[androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/8.9/transforms/e10e80ec0c53c4073896144a4bd970bb/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:25:13-36
+239-->[androidx.compose.ui:ui-test-manifest:1.6.8] C:\Users\HP\.gradle\caches\8.9\transforms\e10e80ec0c53c4073896144a4bd970bb\transformed\ui-test-manifest-1.6.8\AndroidManifest.xml:25:13-36
 240
 241        <receiver
-241-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+241-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
 242            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-242-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+242-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
 243            android:directBootAware="false"
-243-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+243-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
 244            android:enabled="true"
-244-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+244-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
 245            android:exported="true"
-245-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+245-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
 246            android:permission="android.permission.DUMP" >
-246-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+246-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
 247            <intent-filter>
-247-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+247-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
 248                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-248-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
-248-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+248-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+248-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 249            </intent-filter>
 250            <intent-filter>
-250-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+250-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
 251                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-251-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
-251-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+251-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+251-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 252            </intent-filter>
 253            <intent-filter>
-253-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+253-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
 254                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-254-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
-254-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+254-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+254-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
 255            </intent-filter>
 256            <intent-filter>
-256-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+256-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
 257                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-257-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
-257-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/8.9/transforms/fae1902dd550744c9f344d993754399d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+257-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+257-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\.gradle\caches\8.9\transforms\fae1902dd550744c9f344d993754399d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
 258            </intent-filter>
 259        </receiver>
 260
 261        <service
-261-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/3f8e57070a349bf6f3929e00bb360e5d/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+261-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\3f8e57070a349bf6f3929e00bb360e5d\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
 262            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-262-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/3f8e57070a349bf6f3929e00bb360e5d/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+262-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\3f8e57070a349bf6f3929e00bb360e5d\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
 263            android:exported="false" >
-263-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/3f8e57070a349bf6f3929e00bb360e5d/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+263-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\3f8e57070a349bf6f3929e00bb360e5d\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
 264            <meta-data
-264-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/3f8e57070a349bf6f3929e00bb360e5d/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+264-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\3f8e57070a349bf6f3929e00bb360e5d\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
 265                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-265-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/3f8e57070a349bf6f3929e00bb360e5d/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+265-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\3f8e57070a349bf6f3929e00bb360e5d\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
 266                android:value="cct" />
-266-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/3f8e57070a349bf6f3929e00bb360e5d/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+266-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\3f8e57070a349bf6f3929e00bb360e5d\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
 267        </service>
 268        <service
-268-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+268-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
 269            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-269-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+269-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
 270            android:exported="false"
-270-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+270-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
 271            android:permission="android.permission.BIND_JOB_SERVICE" >
-271-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+271-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
 272        </service>
 273
 274        <receiver
-274-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+274-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
 275            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-275-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+275-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
 276            android:exported="false" />
-276-->[com.google.android.datatransport:transport-runtime:3.1.8] /home/emobilis/.gradle/caches/8.9/transforms/e7f3ae5b0e32c7c14b6ff37a0352418a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+276-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\HP\.gradle\caches\8.9\transforms\e7f3ae5b0e32c7c14b6ff37a0352418a\transformed\transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
 277    </application>
 278
 279</manifest>

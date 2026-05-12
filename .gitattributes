@@ -1,0 +1,4 @@
+*.kt linguist-language=Kotlin
+*.java linguist-generated=true
+.gradle/** linguist-generated=true
+build/** linguist-generated=true

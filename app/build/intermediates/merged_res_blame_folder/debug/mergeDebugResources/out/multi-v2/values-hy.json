@@ -4,24 +4,7 @@
             "outputFile": "com.emobilis.app-mergeDebugResources-64:/values-hy/values-hy.xml",
             "map": [
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/0b25345fce003aecd458006e58e7a7bb/transformed/ui-release/res/values-hy/values-hy.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,204,286,380,480,563,645,731,826,908,980,1051,1136,1224,1298,1379,1448",
-                        "endColumns": "98,81,93,99,82,81,85,94,81,71,70,84,87,73,80,68,117",
-                        "endOffsets": "199,281,375,475,558,640,726,821,903,975,1046,1131,1219,1293,1374,1443,1561"
-                    },
-                    "to": {
-                        "startLines": "36,37,58,60,61,75,76,133,134,135,136,137,138,140,142,143,144",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3534,3633,6248,6430,6530,8199,8281,14552,14647,14729,14801,14872,14957,15128,15303,15384,15453",
-                        "endColumns": "98,81,93,99,82,81,85,94,81,71,70,84,87,73,80,68,117",
-                        "endOffsets": "3628,3710,6337,6525,6608,8276,8362,14642,14724,14796,14867,14952,15040,15197,15379,15448,15566"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/8a9e21e94992ec1fe7d958b7895b9bdf/transformed/appcompat-1.6.1/res/values-hy/values-hy.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\8a9e21e94992ec1fe7d958b7895b9bdf\\transformed\\appcompat-1.6.1\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,75 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/341b733f2b8ec948e09cdef515b8574e/transformed/foundation-release/res/values-hy/values-hy.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,140",
-                        "endColumns": "84,88",
-                        "endOffsets": "135,224"
-                    },
-                    "to": {
-                        "startLines": "145,146",
-                        "startColumns": "4,4",
-                        "startOffsets": "15571,15656",
-                        "endColumns": "84,88",
-                        "endOffsets": "15651,15740"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/41eee696bef2d19507ee89c084a88143/transformed/play-services-base-18.0.1/res/values-hy/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,295,456,586,690,840,972,1095,1204,1367,1471,1635,1767,1925,2087,2148,2211",
-                        "endColumns": "101,160,129,103,149,131,122,108,162,103,163,131,157,161,60,62,77",
-                        "endOffsets": "294,455,585,689,839,971,1094,1203,1366,1470,1634,1766,1924,2086,2147,2210,2288"
-                    },
-                    "to": {
-                        "startLines": "38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3715,3821,3986,4120,4228,4382,4518,4645,4909,5076,5184,5352,5488,5650,5816,5881,5948",
-                        "endColumns": "105,164,133,107,153,135,126,112,166,107,167,135,161,165,64,66,81",
-                        "endOffsets": "3816,3981,4115,4223,4377,4513,4640,4753,5071,5179,5347,5483,5645,5811,5876,5943,6025"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/77d4f9f3e98df043856a703b0cb36154/transformed/biometric-1.1.0/res/values-hy/values-hy.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,169,257,372,498,621,752,871,1033,1136,1268,1403",
-                        "endColumns": "113,87,114,125,122,130,118,161,102,131,134,122",
-                        "endOffsets": "164,252,367,493,616,747,866,1028,1131,1263,1398,1521"
-                    },
-                    "to": {
-                        "startLines": "56,59,65,66,67,68,69,70,71,72,73,74",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "6030,6342,6930,7045,7171,7294,7425,7544,7706,7809,7941,8076",
-                        "endColumns": "113,87,114,125,122,130,118,161,102,131,134,122",
-                        "endOffsets": "6139,6425,7040,7166,7289,7420,7539,7701,7804,7936,8071,8194"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/0ffb127edfe6a62b4f57d73d86eee4ea/transformed/core-1.12.0/res/values-hy/values-hy.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,260,358,457,562,664,775",
-                        "endColumns": "99,104,97,98,104,101,110,100",
-                        "endOffsets": "150,255,353,452,557,659,770,871"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,141",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2814,2914,3019,3117,3216,3321,3423,15202",
-                        "endColumns": "99,104,97,98,104,101,110,100",
-                        "endOffsets": "2909,3014,3112,3211,3316,3418,3529,15298"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/6d437433dc5c240d958c718e477874e8/transformed/material3-release/res/values-hy/values-hy.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\6d437433dc5c240d958c718e477874e8\\transformed\\material3-release\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -123,7 +38,58 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/afe8678f07e2651a78bc1d9d4d494dd3/transformed/play-services-basement-18.1.0/res/values-hy/values.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\2d90f35a7c97faaaaa6f9805b3f516b0\\transformed\\browser-1.4.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,262,373",
+                        "endColumns": "103,102,110,102",
+                        "endOffsets": "154,257,368,471"
+                    },
+                    "to": {
+                        "startLines": "57,62,63,64",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6144,6613,6716,6827",
+                        "endColumns": "103,102,110,102",
+                        "endOffsets": "6243,6711,6822,6925"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\0ffb127edfe6a62b4f57d73d86eee4ea\\transformed\\core-1.12.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,260,358,457,562,664,775",
+                        "endColumns": "99,104,97,98,104,101,110,100",
+                        "endOffsets": "150,255,353,452,557,659,770,871"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,141",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2814,2914,3019,3117,3216,3321,3423,15202",
+                        "endColumns": "99,104,97,98,104,101,110,100",
+                        "endOffsets": "2909,3014,3112,3211,3316,3418,3529,15298"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\41eee696bef2d19507ee89c084a88143\\transformed\\play-services-base-18.0.1\\res\\values-hy\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,295,456,586,690,840,972,1095,1204,1367,1471,1635,1767,1925,2087,2148,2211",
+                        "endColumns": "101,160,129,103,149,131,122,108,162,103,163,131,157,161,60,62,77",
+                        "endOffsets": "294,455,585,689,839,971,1094,1203,1366,1470,1634,1766,1924,2086,2147,2210,2288"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3715,3821,3986,4120,4228,4382,4518,4645,4909,5076,5184,5352,5488,5650,5816,5881,5948",
+                        "endColumns": "105,164,133,107,153,135,126,112,166,107,167,135,161,165,64,66,81",
+                        "endOffsets": "3816,3981,4115,4223,4377,4513,4640,4753,5071,5179,5347,5483,5645,5811,5876,5943,6025"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\afe8678f07e2651a78bc1d9d4d494dd3\\transformed\\play-services-basement-18.1.0\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -140,20 +106,54 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/.gradle/caches/8.9/transforms/2d90f35a7c97faaaaa6f9805b3f516b0/transformed/browser-1.4.0/res/values-hy/values-hy.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\77d4f9f3e98df043856a703b0cb36154\\transformed\\biometric-1.1.0\\res\\values-hy\\values-hy.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,159,262,373",
-                        "endColumns": "103,102,110,102",
-                        "endOffsets": "154,257,368,471"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,257,372,498,621,752,871,1033,1136,1268,1403",
+                        "endColumns": "113,87,114,125,122,130,118,161,102,131,134,122",
+                        "endOffsets": "164,252,367,493,616,747,866,1028,1131,1263,1398,1521"
                     },
                     "to": {
-                        "startLines": "57,62,63,64",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "6144,6613,6716,6827",
-                        "endColumns": "103,102,110,102",
-                        "endOffsets": "6243,6711,6822,6925"
+                        "startLines": "56,59,65,66,67,68,69,70,71,72,73,74",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6030,6342,6930,7045,7171,7294,7425,7544,7706,7809,7941,8076",
+                        "endColumns": "113,87,114,125,122,130,118,161,102,131,134,122",
+                        "endOffsets": "6139,6425,7040,7166,7289,7420,7539,7701,7804,7936,8071,8194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\0b25345fce003aecd458006e58e7a7bb\\transformed\\ui-release\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,286,380,480,563,645,731,826,908,980,1051,1136,1224,1298,1379,1448",
+                        "endColumns": "98,81,93,99,82,81,85,94,81,71,70,84,87,73,80,68,117",
+                        "endOffsets": "199,281,375,475,558,640,726,821,903,975,1046,1131,1219,1293,1374,1443,1561"
+                    },
+                    "to": {
+                        "startLines": "36,37,58,60,61,75,76,133,134,135,136,137,138,140,142,143,144",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3534,3633,6248,6430,6530,8199,8281,14552,14647,14729,14801,14872,14957,15128,15303,15384,15453",
+                        "endColumns": "98,81,93,99,82,81,85,94,81,71,70,84,87,73,80,68,117",
+                        "endOffsets": "3628,3710,6337,6525,6608,8276,8362,14642,14724,14796,14867,14952,15040,15197,15379,15448,15566"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\341b733f2b8ec948e09cdef515b8574e\\transformed\\foundation-release\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,88",
+                        "endOffsets": "135,224"
+                    },
+                    "to": {
+                        "startLines": "145,146",
+                        "startColumns": "4,4",
+                        "startOffsets": "15571,15656",
+                        "endColumns": "84,88",
+                        "endOffsets": "15651,15740"
                     }
                 }
             ]
