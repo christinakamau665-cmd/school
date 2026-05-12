@@ -1,5 +1,4 @@
 package com.emobilis.app.data.model
-
 data class Attendance(
     val id: String = "",
     val studentUid: String = "",
